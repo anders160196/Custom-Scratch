@@ -1,3 +1,2 @@
-# Coursera-AI
-Python Project for AI & Application Development
-by IBM
+# Custom-Scratch
+for MakerBay project
